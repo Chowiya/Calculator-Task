@@ -1,0 +1,14 @@
+
+# Income Expense Calculator
+
+## Features
+- Add, edit, and delete income and expense entries.
+- Filter entries by type: All, Income, Expense.
+- Persistent data using local storage.
+- Responsive design for desktop and mobile.
+
+## Technologies
+- HTML, CSS, JavaScript.
+
+## How to Run
+1. Open `index.html` in a browser.
